@@ -1,0 +1,21 @@
+# ninja log v6
+2	74	7658895568550306	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	3aa7b6365a421020
+2	74	7658895568550306	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	3aa7b6365a421020
+75	3807	7658895605901658	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	32c6beadb557c8da
+75	3807	7658895605901658	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	32c6beadb557c8da
+3807	4003	7658895605974581	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	24352abd32fa5c4
+3807	4003	7658895605974581	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	24352abd32fa5c4
+4003	4137	7658895609212301	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	65d303ea8a96e16a
+4003	4137	7658895609212301	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	65d303ea8a96e16a
+4137	4197	7658895609816213	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1ae8a905619e7643
+4137	4197	7658895609816213	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1ae8a905619e7643
+4198	4258	7658895610423308	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	bb3cd40cb0529969
+4198	4258	7658895610423308	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	bb3cd40cb0529969
+4258	4320	7658895611030542	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	bbcbbae0f28346ac
+4258	4320	7658895611030542	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	bbcbbae0f28346ac
+4320	4392	7658895611763748	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	bc2bbd3695eb7aec
+4320	4392	7658895611763748	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	bc2bbd3695eb7aec
+4393	4479	7658895612629197	CMakeFiles/vorbis-populate-complete	51e3e0535e0a2a0d
+4393	4479	7658895612629197	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	51e3e0535e0a2a0d
+4393	4479	7658895612629197	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	51e3e0535e0a2a0d
+4393	4479	7658895612629197	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	51e3e0535e0a2a0d

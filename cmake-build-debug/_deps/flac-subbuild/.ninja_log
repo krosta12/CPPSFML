@@ -1,0 +1,21 @@
+# ninja log v6
+3	65	7658895419465160	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	9744da28981e9b94
+3	65	7658895419465160	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	9744da28981e9b94
+66	2706	7658895445859402	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	1e59ba19128a645c
+66	2706	7658895445859402	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	1e59ba19128a645c
+2706	2883	7658895445939821	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f59c15a43e977cb6
+2706	2883	7658895445939821	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f59c15a43e977cb6
+2883	3038	7658895449202137	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	abb660e5f2fb308
+2883	3038	7658895449202137	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	abb660e5f2fb308
+3039	3102	7658895449836193	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	32f053af480dd380
+3039	3102	7658895449836193	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	32f053af480dd380
+3103	3162	7658895450434758	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	6bcfc9c2e555a2d8
+3103	3162	7658895450434758	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	6bcfc9c2e555a2d8
+3162	3219	7658895451007539	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	9119c37135c1c8e1
+3162	3219	7658895451007539	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	9119c37135c1c8e1
+3219	3277	7658895451582216	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	941a6a329d72ef65
+3219	3277	7658895451582216	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	941a6a329d72ef65
+3277	3356	7658895452362089	CMakeFiles/flac-populate-complete	5ed4fcfe29bd7a0a
+3277	3356	7658895452362089	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	5ed4fcfe29bd7a0a
+3277	3356	7658895452362089	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	5ed4fcfe29bd7a0a
+3277	3356	7658895452362089	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	5ed4fcfe29bd7a0a

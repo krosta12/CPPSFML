@@ -1,0 +1,21 @@
+# ninja log v6
+2	68	7658895210564624	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	24465e1495bcb657
+2	68	7658895210564624	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	24465e1495bcb657
+69	8889	7658895298780187	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	436c9e5a665d8e41
+69	8889	7658895298780187	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	436c9e5a665d8e41
+8889	9048	7658895298840193	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a55c7d5c68888d48
+8889	9048	7658895298840193	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a55c7d5c68888d48
+9048	9152	7658895301400983	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d628a2050993c
+9048	9152	7658895301400983	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d628a2050993c
+9153	9209	7658895301974164	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e34537e87f912d1b
+9153	9209	7658895301974164	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e34537e87f912d1b
+9209	9266	7658895302545272	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	fea8bd6c1accbf2d
+9209	9266	7658895302545272	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	fea8bd6c1accbf2d
+9266	9320	7658895303080479	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	1f9ca830a5161705
+9266	9320	7658895303080479	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	1f9ca830a5161705
+9320	9373	7658895303621102	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8250c47a5fcd0130
+9320	9373	7658895303621102	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8250c47a5fcd0130
+9373	9453	7658895304412615	CMakeFiles/freetype-populate-complete	9752ad9e7435a704
+9373	9453	7658895304412615	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9752ad9e7435a704
+9373	9453	7658895304412615	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	9752ad9e7435a704
+9373	9453	7658895304412615	C:/Users/kostiantyn/Desktop/CPPPR/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9752ad9e7435a704
